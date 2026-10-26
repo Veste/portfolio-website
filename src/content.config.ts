@@ -20,11 +20,11 @@ const reviews = defineCollection({
 		schema: z.object({
 			title: z.string(),
 			publishDate: z.coerce.date(),
-			description: z.string(),
 			developer: z.string(),
-			tags: z.array(z.string()),
 			img: z.string(),
 			img_alt: z.string().optional(),
+			description: z.string(),
+			tags: z.array(z.string()),
 		}),
 	})
 
