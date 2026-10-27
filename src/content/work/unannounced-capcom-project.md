@@ -1,7 +1,7 @@
 ---
 title: Unannounced Capcom Vancouver Project
 publishDate: 2016-02-01 00:00:00
-img: /assets/cv-1.jpg
+img: /portfolio-website/assets/cv-1.jpg
 img_alt: A
 description: |
   The project I spent my first few years in Vancouver working on!

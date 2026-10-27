@@ -1,7 +1,7 @@
 ---
 title: Don't Starve Together
 publishDate: 2018-08-01 00:00:00
-img: /assets/dst-1.jpeg
+img: /portfolio-website/assets/dst-1.jpeg
 img_alt: Wilson with a sketchy Maxwell looming over him.
 description: |
   A game about exploration, surviving, & thriving in a dark and weird world. 

@@ -2,7 +2,7 @@
 title: Shadow of the Colossus
 publishDate: October 18, 2005
 developer: Team ICO
-img: /assets/shadow-of-the-colossus-1.png
+img: /portfolio-website/assets/shadow-of-the-colossus-1.png
 img_alt: Splash art of the main character standing adjacent to a towering colossus.
 description: |
   What if you climbed all over some guys and felt bad as you stabbed them?

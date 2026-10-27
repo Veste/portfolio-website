@@ -1,7 +1,7 @@
 ---
 title: Life Collection Initiative
 publishDate: 2018-07-23 00:00:00
-img: /assets/lci-1.png
+img: /portfolio-website/assets/lci-1.png
 img_alt: A screenshot of the game, featuring some planets, aliens, and a minimap.
 description: |
   A short game-jam game about being a sequel to an existing title.
